@@ -27,6 +27,7 @@ import Settings from "../pages/Dashboard/Settings/Settings";
 import ComplatedDeliveries from "../pages/Dashboard/ComplatedDeliveries/ComplatedDeliveries";
 import ParcelTracking from "../pages/ParcelTracking/ParcelTracking";
 import DashboardHome from "../pages/Dashboard/DashboardHome/DashboardHome";
+import ErrorPage from './../pages/ErrorPage/ErrorPage';
 
 const router = createBrowserRouter([
   /* rootLayout----------------- */
