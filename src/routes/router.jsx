@@ -15,7 +15,6 @@ import MyParcel from "./../pages/Dashboard/MyParcel/MyParcel";
 import Payment from "../pages/Dashboard/Payments/Payment";
 import PaymentSuccess from "../pages/Dashboard/Payments/PaymentSuccess";
 import PaymentCancel from "../pages/Dashboard/Payments/PaymentCancel ";
-import PaymentHistory from "../pages/Dashboard/Payments/paymentHistory";
 import Rider from "../pages/Rider/Rider";
 import ApproveRider from "../pages/Dashboard/ApproveRider/ApproveRider";
 import UsersManagement from "../pages/Dashboard/UsersManagement/UsersManagement";
@@ -27,6 +26,7 @@ import Settings from "../pages/Dashboard/Settings/Settings";
 import ComplatedDeliveries from "../pages/Dashboard/ComplatedDeliveries/ComplatedDeliveries";
 import ParcelTracking from "../pages/ParcelTracking/ParcelTracking";
 import DashboardHome from "../pages/Dashboard/DashboardHome/DashboardHome";
+import PaymentHistory from './../pages/Dashboard/Payments/PaymentHistory';
 
 
 const router = createBrowserRouter([
