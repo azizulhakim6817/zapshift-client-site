@@ -2,6 +2,10 @@
 
 https://zapshift-client-site.vercel.app/
 
+# Admin Email:
+
+programmerazizulhakim@email.com
+
 ## Server site live url :
 
 https://zap-shift-server-site-eight.vercel.appparcels
